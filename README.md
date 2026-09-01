@@ -214,6 +214,8 @@ In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
 
 
+Jenkins automatic trigger test 
+
 Jenkins automatic trigger test
 
 
